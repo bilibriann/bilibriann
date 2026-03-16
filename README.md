@@ -1,7 +1,7 @@
 # 🌱 Hola, soy Brian
 
 <p align="center">
-  <img src="./assets/arbol.png" alt="Imagen de presentación" width="300"/>
+  <img src="./assets/julio-cesar.png" alt="Imagen de presentación" width="300"/>
 </p>
 
 <p align="center">
