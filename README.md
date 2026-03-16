@@ -2,9 +2,7 @@
   <img src="julio-cesar.png" alt="Imagen de presentación" width="500">
 </p>
 
-<p align="center">
-  Programador enfocado en el desarrollo Backend.
-</p>
+<h3 align="center">Programador enfocado en el desarrollo Backend</h3>
 
 <p align="center">
   Me gusta seguir aprendiendo nuevas habilidades, mejorar constantemente y explorar distintas áreas del conocimiento.
