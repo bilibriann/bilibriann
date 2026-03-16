@@ -5,7 +5,7 @@
 <h3 align="center">Programador enfocado en el desarrollo Backend</h3>
 
 <p align="center">
-  Me gusta seguir aprendiendo nuevas habilidades, mejorar constantemente y explorar distintas áreas del conocimiento.
+  Me gusta seguir aprender nuevas habilidades y explorar distintas áreas del conocimiento.
 </p>
 
 ---
