@@ -2,7 +2,7 @@
   <img src="julio-cesar.png" alt="Imagen de presentación" width="500">
 </p>
 
-<h2 align="left">Me llamo Brian Vilches.</h2>
+<h2 align="center">Me llamo Brian Vilches.</h2>
 
 <p align="center">
   Soy programador con enfoque en desarrollo Backend. Me gusta aprender nuevas habilidades y explorar distintas áreas del conocimiento.
