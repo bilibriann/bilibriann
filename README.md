@@ -74,6 +74,5 @@ API REST para gestión de bodega, construida como proyecto principal donde aplic
 
 - CI/CD con GitHub Actions (pipeline sobre Bodega Ecole)
 - Seguridad en el pipeline: Trivy, Gitleaks, Dependabot, SonarCloud
-- Python aplicado a automatización y seguridad
-- Cloud Security en Azure (ruta AZ-500)
-- Infraestructura como código con escaneo de seguridad
+
+
