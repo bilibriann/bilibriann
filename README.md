@@ -64,8 +64,8 @@ API REST para gestión de bodega, construida como proyecto principal donde aplic
 ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ISC2 CC](https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-00A9CE?style=for-the-badge&logo=isc2&logoColor=white)
 
-- **Google Cybersecurity Professional Certificate** — fundamentos de seguridad, gestión de riesgos, redes, Linux, SQL y respuesta ante incidentes _(Coursera)_
-- **ISC2 Certified in Cybersecurity (CC)** — principios de seguridad, control de acceso, seguridad de redes y operaciones
+- **Google Cybersecurity Professional Certificate** — fundamentos de seguridad, gestión de riesgos, redes, Linux, SQL y respuesta ante incidentes - Coursera.  (cursando actualmente)
+- **ISC2 Certified in Cybersecurity (CC)** — principios de seguridad, control de acceso, seguridad de redes y operaciones. (cursando actualmente)
 
 ---
 
